@@ -1,8 +1,6 @@
 **SIMPLE WEATHER APP**
-
 In this program, you will learn the follow concept:
-
--Applincation boolean (True and False)
+*Applincation boolean (True and False)
 +Application of if, elif,and else, 
-*inbuilt function: input(), print()
--how use the assignment '=='
+-Inbuilt function: input(), print()
+*how use the assignment '=='
